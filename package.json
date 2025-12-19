@@ -1,0 +1,21 @@
+{
+  "name": "monobiome-dark-theme",
+  "displayName": "Monobiome Dark Theme",
+  "description": "A dark theme for Visual Studio Code based on Monobiome Dark.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monobiome Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monobiome_dark_vscode_theme.json"
+      }
+    ]
+  }
+}

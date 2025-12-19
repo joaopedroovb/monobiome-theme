@@ -1,0 +1,12 @@
+# Arquivos gerados pelo vsce
+*.vsix
+
+# Pasta node_modules (se houver)
+node_modules/
+
+# Arquivos de log e temporários
+*.log
+.DS_Store
+
+# Arquivos de configuração local do VS Code
+.vscode/
