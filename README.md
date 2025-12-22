@@ -20,7 +20,7 @@ A dark theme for Visual Studio Code, **inspired by** the [Monobiome](https://git
 - This theme is an **unofficial adaptation** for Visual Studio Code, based on the visual style of [Monobiome](https://git.olog.io/olog/monobiome).
 - All rights to the original theme design belong to [Ologio](https://git.olog.io/olog).
 - This adaptation is provided for **personal use only** and is not affiliated with, endorsed, or sponsored by the original author.
-- If you are the original author and would like this theme to be removed or updated, please [contact me](#).
+- If you are the original author and would like this theme to be removed or updated, please [contact me](mailto:olliveiravb@gmail.com?subject=Monobiome%20VSCode%20Theme).
 
 ---
 
