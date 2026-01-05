@@ -1,8 +1,8 @@
 {
-  "name": "monobiome-dark-theme",
-  "displayName": "Monobiome Dark Theme",
-  "description": "A dark theme for Visual Studio Code based on Monobiome Dark.",
-  "version": "1.0.0",
+  "name": "monobiome-theme",
+  "displayName": "Monobiome Theme",
+  "description": "Dark and Light themes for Visual Studio Code based on Monobiome.",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -15,6 +15,11 @@
         "label": "Monobiome Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/monobiome_dark_vscode_theme.json"
+      },
+      {
+        "label": "Monobiome Light",
+        "uiTheme": "vs",
+        "path": "./themes/monobiome_light_vscode_theme.json"
       }
     ]
   }
