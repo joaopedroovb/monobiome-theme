@@ -1,6 +1,18 @@
-# Monobiome Dark Theme for VS Code
+# Monobiome Theme for VS Code
 
-A dark theme for Visual Studio Code, **inspired by** the [Monobiome](https://git.olog.io/olog/monobiome) theme created by [Ologio](https://git.olog.io/olog).
+A theme for Visual Studio Code, **inspired by** the [Monobiome](https://git.olog.io/olog/monobiome) theme created by [Ologio](https://git.olog.io/olog).
+
+---
+
+## Generate the package
+
+1. Install vsce (Visual Studio Code Extension Manager) globally, if you don’t have it installed yet:
+
+npm install -g @vscode/vsce
+
+2. Navigate to the monobiome-theme folder and run:
+
+vsce package
 
 ---
 
@@ -11,7 +23,7 @@ A dark theme for Visual Studio Code, **inspired by** the [Monobiome](https://git
 3. Go to **Extensions** (`Cmd+Shift+X`).
 4. Click the three dots (⋮) and select **"Install from VSIX..."**.
 5. Select the downloaded `.vsix` file and install.
-6. Restart VS Code and select **"Monobiome Dark"** from the theme picker (`Cmd+K Cmd+T`).
+6. Restart VS Code and select **"Monobiome Dark"** or **"Monobiome Light"** from the theme picker (`Cmd+K Cmd+T`).
 
 ---
 
